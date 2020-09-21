@@ -12,7 +12,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-The app requests your Tesla Account data in order to communicate with the Tesla servers. The account data will be stored in your keychain on-device. No data is sent to the developer of the app. Settings are stored on device as well.
+The app requests your Tesla Account data in order to communicate with the Tesla servers. The account data will be stored in your keychain on-device. No data is sent to the developer of the app. Settings are stored on device as well. Please see Tesla's privacy policy for that matter. [Tesla Privacy Policy](https://www.tesla.com/about/legal)
 
 **Log Data**
 
@@ -33,7 +33,7 @@ I may employ third-party companies and individuals due to the following reasons:
 *   To perform Service-related services; or
 *   To assist us in analyzing how our Service is used.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+I want to inform users of this Service that these third parties have no access to your Personal Information. The reason is that we are not storing any of your data on our servers.
 
 **Security**
 
@@ -45,7 +45,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13.
 
 **Changes to This Privacy Policy**
 
